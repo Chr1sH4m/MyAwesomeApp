@@ -96,3 +96,4 @@ c:\users\christopher ham\documents\visual studio 2015\Projects\MyAwesomeApp\MyAw
 c:\users\christopher ham\documents\visual studio 2015\Projects\MyAwesomeApp\MyAwesomeApp\obj\Debug\MyAwesomeApp.csprojResolveAssemblyReference.cache
 c:\users\christopher ham\documents\visual studio 2015\Projects\MyAwesomeApp\MyAwesomeApp\obj\Debug\MyAwesomeApp.dll
 c:\users\christopher ham\documents\visual studio 2015\Projects\MyAwesomeApp\MyAwesomeApp\obj\Debug\MyAwesomeApp.pdb
+C:\Users\Christopher Ham\Documents\Visual Studio 2015\Projects\MyAwesomeApp\MyAwesomeApp\bin\Unity.WebApi.dll
